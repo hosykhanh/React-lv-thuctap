@@ -1,0 +1,30 @@
+.sort-header {
+  display: flex;
+  justify-content: space-between;
+}
+.sort-header i {
+  cursor: pointer;
+  padding: 0 2px;
+}
+
+.add-new {
+  align-items: center;
+  justify-content: space-between;
+}
+.add-new .group-btns {
+  display: flex;
+  gap: 10px;
+}
+
+.home-anh {
+  gap: 10rem;
+}
+
+.customize-table {
+  width: inherit;
+  overflow-x: auto;
+}
+
+.pagination {
+  justify-content: center;
+}/*# sourceMappingURL=TableUser.css.map */
